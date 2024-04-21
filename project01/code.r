@@ -1,4 +1,4 @@
-# create pao_ying_chup_game
+# create_pao_ying_chup_game
 gogame <- function(){
   
   greeting <- readline("Welcome to the game! What's your name: ")
