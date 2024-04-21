@@ -1,5 +1,6 @@
 # Data Science Bootcamp Batch 9
 
+## what did I learn from thist bootcamp
 I learn a lot of stuff related to data science skills. This bootcamp has 10 sprints as follow.
 
 - Intro to data science
